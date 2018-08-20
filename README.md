@@ -6,7 +6,7 @@
 For the **Restaurant Reviews** projects, I have converted a static webpage to a mobile-ready web application.
 In **Stage 1**, The static design that lacks accessibility has been converted into the responsive design on different sized displays and accessible for screen reader use. I have added a service worker to begin the process of creating a seamless offline experience for the users.
 
-**Live Demo** [Click Here](https://soumya44.github.io/restaurant-review-app/)
+**Live Demo** [Click Here](https://soumya44.github.io/udacity-restaurant-review-app/)
 
 ### Getting Started
 
