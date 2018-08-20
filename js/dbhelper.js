@@ -12,7 +12,7 @@ class DBHelper {
     
     if(isHosted){
     	console.log(window.location.hostname);
-    	return `https://abinashcode9.github.io/mws-restaurant-review-app-stage-1/data/restaurants.json`
+    	return `https://soumya44.github.io/udacity-restaurant-review-app/data/restaurants.json`
     }
     return `http://localhost:${port}/data/restaurants.json`;
   }
@@ -183,4 +183,4 @@ class DBHelper {
   } */
 
 }
-var isHosted = (window.location.hostname === "abinashcode9.github.io") ? 'true' : '' ;
+var isHosted = (window.location.hostname === "soumya44.github.io") ? 'true' : '' ;
